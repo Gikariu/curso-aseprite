@@ -1,0 +1,2 @@
+1. TAB = para habilitar y deshabilitar la zona de capas inferior
+2. SHIFT = mientras creas una linea, te permite crear contornos mas sencillos
